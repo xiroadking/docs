@@ -12,7 +12,7 @@
 
 ==要是有报“key is invaild”,应该是由于没有重启IDEA导致,记得手动重启后再输入激活码!==
 
-==**温馨提示:如果使用补丁后软件不能启动,那请将程序配置目录删除:**==
+```**温馨提示:如果使用补丁后软件不能启动,那请将程序配置目录删除:**```
 
 **Windows:
 ****C:\Users\您的用户名\AppData\Roaming\JetBrains
@@ -29,4 +29,4 @@
 
 ### 最后上传下激活成功的截图
 
-![激活成功](https://github.com/xiroadking/docs/blob/main/Mac激活IDEA成功.png)
+![激活成功](https://github.com/xiroadking/docs/Mac激活IDEA成功.png)
