@@ -29,4 +29,4 @@
 
 ### 最后上传下激活成功的截图
 
-![激活成功](https://github.com/xiroadking/docs/blob/main/Mac激活IDEA成功.png)
+![激活成功](https://github.com/xiroadking/docs/blob/main/images/Mac激活IDEA成功.png)
